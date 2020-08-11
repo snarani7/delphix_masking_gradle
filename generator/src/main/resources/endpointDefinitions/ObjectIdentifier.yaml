@@ -1,9 +1,0 @@
-className: [object, Identifier]
-generatePost: false
-generatePut: false
-generateGet: false
-memberVariables:
-  - name: algorithmName
-    type: String
-  - name: keyId
-    type: String

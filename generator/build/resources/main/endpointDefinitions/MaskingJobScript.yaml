@@ -1,9 +1,0 @@
-className: [masking, Job, Script]
-generatePost: false
-generatePut: false
-generateGet: false
-memberVariables:
-  - name: name
-    type: String
-  - name: contents
-    type: String

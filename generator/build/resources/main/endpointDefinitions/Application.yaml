@@ -1,0 +1,16 @@
+className: [application]
+endpointPath: applications
+nameField: ApplicationName
+idField: ApplicationId
+generatePut: false
+memberVariables:
+  - name: applicationId
+    type: Integer
+  - name: applicationName
+    type: String
+  - name: environments
+    type: List
+    listType: Environment
+  - name: environmentFiles
+    type: List
+    listType: String
